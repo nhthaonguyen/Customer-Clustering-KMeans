@@ -15,8 +15,6 @@ You can visit my other Customer Analysis here 💁🏻‍
 
 📌[Customer Clustering using K-Prototypes](https://github.com/nhthaonguyen/Customer-Clustering-KPrototypes)
 
-📌[Customer Clustering using K-Means](https://github.com/nhthaonguyen/Customer-Clustering-KMeans)
-
 📌[Churn Prediction](https://github.com/nhthaonguyen/Customer-Churn-prediction)
 
 📌[Customer Segmentation analysis (without ML)](https://github.com/nhthaonguyen/Customer-Segmentation---RFM-Analysis)
